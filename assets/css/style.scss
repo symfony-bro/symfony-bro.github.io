@@ -2,9 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-section {
-  padding-bottom:50px;
-}
+@import "custom.scss";
